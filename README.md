@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Gahalor/gahalor/blob/main/1685546724115.jpeg)
+![Design and Development](https://github.com/Gahalor/gahalor#:~:text=Commit%20time-,1685546724115.jpeg,-Add%20files%20via)
 
 ### Hi there 👋, Oscar
 I'm Oscar from Chile, and I do full-stack custom web development. I really enjoy learning languajes and frameworks like React, Phyton, Solidity and Motoko. I also enjoy ui, ux, and design in general.
